@@ -11,7 +11,7 @@ export class RecipeListComponent implements OnInit {
 
   recipes: Recipe[] = [];
 
-  recipe = new Recipe('Dummy','Dummy','https://www.google.lk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiCsLXRk4XTAhVHtJQKHR-KDXUQjRwIBw&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fmannequin&bvm=bv.151325232,d.dGo&psig=AFQjCNHxoeEg5GzycPB-r9lCRJCKcfgF6g&ust=1491201226407071');
+  recipe = new Recipe('Dummy','Dummy','https://thumb7.shutterstock.com/display_pic_with_logo/2312339/398527027/stock-photo-full-length-female-mannequin-dressed-in-yellow-dress-isolated-on-white-background-398527027.jpg');
 
   constructor() { }
 
